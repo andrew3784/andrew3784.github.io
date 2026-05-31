@@ -7,3 +7,4 @@
 #
 layout: default
 ---
+[Download Resume]({{ site.baseurl }}/assets/pdf/resume_simplified.pdf)
