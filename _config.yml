@@ -33,10 +33,10 @@ github_username:  andrew3784
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#    url: https://www.itsgoingto.be
+ additional_links:
+ - title: Resume
+   icon: fas fa-globe
+    url: https://github.com/andrew3784/andrew3784.github.io/blob/main/assets/pdf/resume_simplified.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
