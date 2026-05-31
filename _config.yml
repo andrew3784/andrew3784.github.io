@@ -77,7 +77,6 @@ content:
 
     - title: Resume # Title for the section
       layout: list # Type of content section (list/text)
-      [Download Resume]
      # url: "/"
      #content:
       # - layout: left
