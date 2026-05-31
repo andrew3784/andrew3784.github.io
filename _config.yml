@@ -46,7 +46,7 @@ github_username:  andrew3784
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_andrew.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Andrew and I'm a GIS Enterprise Manager. I have experience in Manufacturing Execution Systems and Geographic Information Systems. I have worked at a number of companies managing a variety of projects.
 
